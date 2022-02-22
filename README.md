@@ -10,5 +10,6 @@
                 Rule No 02: listen to rule no 01.
 - ✨ I also work well independently. 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=RanasingheTKSA&show_icons=true&theme=dark"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RanasingheTKSA&layout=compact)](https://github.com/RanasingheTKSA/github-readme-stats&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api?username=RanasingheTKSA&show_icons=true&theme=dark"> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RanasingheTKSA&layout=compact)](https://github.com/RanasingheTKSA/github-readme-stats&theme=dark">
 
