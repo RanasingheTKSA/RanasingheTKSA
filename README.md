@@ -1,7 +1,7 @@
 <p>
   <h2 align="center">
     <b>Hi, I'm Ranasinghe TKSA 👋</b> <br>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/RanasingheTKSA" />
+    <!--<img align="center" alt="visitors" src="https://gpvc.arturio.dev/RanasingheTKSA"/> -->
   </h2>
 </p>
 
