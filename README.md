@@ -5,7 +5,7 @@
   </h2>
 </p>
 
-- 📚 I am currently a undergraduate reading a BSc Hons in Information technology, Specializing Information Technology at SLIIT. 
+- 📚As a recent graduate with a BSc Hons in Information Technology, specializing in Information Technology from SLIIT.
 - 🌱 I have an experience in front-end and back-end, 
              Front-End : Angular, React JS, Scala, HTML, CSS, Bootstrap, JavaScript. 
              Back-End  : Java Framework, Java Springboot, Java Jearsy, ASP.NET Core, C#, Ajax. 
@@ -90,7 +90,7 @@
 </p>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=RanasingheTKSA&show_icons=true&theme=dark"> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RanasingheTKSA&layout=compact)](https://github.com/RanasingheTKSA/github-readme-stats&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RanasingheTKSA&layout=compact">
 
 
 
